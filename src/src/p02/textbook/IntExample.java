@@ -1,4 +1,4 @@
-package p02.textbook;
+package src.p02.textbook;
 
 public class IntExample {
 	public static void main(String[] args) {

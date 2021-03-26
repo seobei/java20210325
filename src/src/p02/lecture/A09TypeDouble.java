@@ -1,4 +1,4 @@
-package p02.lecture;
+package src.p02.lecture;
 
 public class A09TypeDouble {
 	public static void main(String[] args) {
