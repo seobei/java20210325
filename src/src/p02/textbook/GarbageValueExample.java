@@ -1,4 +1,4 @@
-package src.p02.textbook;
+package p02.textbook;
 
 public class GarbageValueExample {
 	public static void main(String[] args) {

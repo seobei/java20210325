@@ -1,4 +1,4 @@
-package src.p02.lecture;
+package p02.lecture;
 
 public class A07TypeCharEx1 {
 	public static void main(String[] args) {

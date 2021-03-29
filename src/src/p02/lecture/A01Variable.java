@@ -1,4 +1,4 @@
-package src.p02.lecture;
+package p02.lecture;
 
 public class A01Variable {
 	public static void main(String[] args) {
