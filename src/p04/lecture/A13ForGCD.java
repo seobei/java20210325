@@ -25,12 +25,13 @@ public class A13ForGCD {
 			num1 = num2;	
 			num2 = r;
 		}
-System.out.println("최대공약수는 :" + num1 );
+		System.out.println("최대공약수는 :" + num1 );
+
 		// for문으로 출력
 //		for (int d = num1; d>=1; d--) {
 //			if((num1 % d) == 0 && (num2 % d) ==0) {
 //				System.out.println("최대공약수는 :" + d);
-//				return;
+//				break;
 //			}
 //		}
 		scanner.close();
