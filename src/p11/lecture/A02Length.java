@@ -1,4 +1,4 @@
-package p11.lecture.string;
+package p11.lecture;
 
 public class A02Length {
 	public static void main(String[] args) {
