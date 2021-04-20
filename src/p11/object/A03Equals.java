@@ -21,5 +21,18 @@ public class A03Equals {
 		
 		public Book(String title, String writer) {
 			super();
+			this.title = title;
+			this.writer = writer;
+		}
+		
+		@Override
+		public boolean equals(Object obj) {
+			if(obj instanceof Book) {
+				Book o = (Book) obj;
+				
+				return this.title.equals(o.title)
+						&& this.writer.equals(o.writer);				
+			} 
+			return false;
 		}
 	}
